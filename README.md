@@ -9,4 +9,4 @@ Configure mongodb connection string.
 
 run:
 
-node test.js
+node teste.js
